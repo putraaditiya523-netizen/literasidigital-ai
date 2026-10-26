@@ -1,1 +1,323 @@
+asi Digital
 
+1. Literasi Digital
+
+Literasi digital adalah kemampuan menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan membagikan informasi secara efektif, kritis, dan bertanggung jawab.
+
+Contoh: Mahasiswa mencari referensi untuk menyusun buku melalui perpustakaan digital.
+
+2. Digital Content
+
+Digital content atau konten digital adalah informasi dalam bentuk digital yang dapat berupa teks, gambar, video, audio, maupun dokumen elektronik.
+
+Contoh: Artikel blog, buku elektronik, dan jurnal PDF.
+
+3. Platform Digital
+
+Platform digital adalah layanan atau sistem berbasis teknologi yang memungkinkan pengguna melakukan berbagai aktivitas secara daring.
+
+Contoh: Platform blog, perpustakaan digital, dan layanan penerbitan buku elektronik.
+
+4. Cloud Storage
+
+Cloud storage adalah layanan penyimpanan data melalui internet sehingga dokumen dapat diakses dari berbagai perangkat sesuai dengan izin pengguna.
+
+Contoh: Menyimpan naskah buku di Google Drive.
+
+5. Digital Footprint
+
+Digital footprint atau jejak digital adalah rekam jejak aktivitas seseorang di lingkungan digital.
+
+Contoh: Artikel yang diterbitkan di blog dapat menjadi bagian dari jejak digital penulis.
+
+6. Digital Publishing
+
+Digital publishing adalah proses menerbitkan dan mendistribusikan karya dalam format digital.
+
+Contoh: Menerbitkan buku elektronik dalam format EPUB atau PDF.
+
+7. E-Book
+
+E-book atau electronic book adalah buku dalam format digital yang dapat dibaca melalui komputer, tablet, atau telepon pintar.
+
+Contoh: Buku panduan literasi digital dalam format EPUB.
+
+8. Open Access
+
+Open access adalah akses terbuka terhadap karya ilmiah sehingga pembaca dapat mengaksesnya tanpa biaya berlangganan, sesuai dengan ketentuan lisensi yang berlaku.
+
+Contoh: Membaca artikel penelitian yang tersedia secara terbuka di repositori atau jurnal open access.
+
+9. Metadata
+
+Metadata adalah informasi yang menjelaskan karakteristik suatu dokumen atau karya digital.
+
+Contoh: Judul buku, nama penulis, tahun terbit, penerbit, dan kata kunci.
+
+10. Digital Archive
+
+Digital archive adalah sistem pengarsipan dokumen dalam bentuk digital untuk memudahkan penyimpanan, pencarian, dan pelestarian informasi.
+
+Contoh: Mengarsipkan naskah buku, artikel, dan dokumen penelitian dalam folder digital yang terorganisasi.
+
+B. Istilah dalam Pembuatan Buku
+
+11. Manuskrip
+
+Manuskrip adalah naskah tulisan yang disiapkan untuk diterbitkan menjadi buku atau karya lainnya.
+
+Contoh: Naskah buku berjudul Jangan Habiskan Hutanku sebelum diterbitkan.
+
+12. Book Formatting
+
+Book formatting adalah proses mengatur tata letak dan tampilan buku agar nyaman dibaca.
+
+Contoh: Mengatur ukuran halaman, margin, spasi, jenis huruf, dan penomoran halaman.
+
+13. Layout
+
+Layout adalah pengaturan posisi teks, gambar, judul, dan elemen lainnya pada halaman buku.
+
+Contoh: Menempatkan ilustrasi hutan di samping teks penjelasan dalam sebuah buku lingkungan.
+
+14. Typography
+
+Tipografi adalah seni dan teknik mengatur huruf agar tulisan mudah dibaca dan memiliki tampilan yang menarik.
+
+Contoh: Memilih jenis huruf yang sesuai untuk judul dan isi buku.
+
+15. Cover Design
+
+Cover design adalah proses merancang sampul buku untuk merepresentasikan isi dan menarik perhatian pembaca.
+
+Contoh: Membuat sampul buku bertema pelestarian hutan dengan ilustrasi pepohonan.
+
+16. ISBN
+
+ISBN atau International Standard Book Number adalah nomor identifikasi standar internasional untuk buku yang diterbitkan dalam format tertentu.
+
+Contoh: Buku yang memenuhi persyaratan penerbitan dapat diajukan untuk memperoleh ISBN melalui lembaga yang berwenang di negaranya.
+
+Perlu diketahui bahwa ISBN bukan sertifikat kualitas isi buku dan tidak otomatis melindungi hak cipta.
+
+17. Proofreading
+
+Proofreading adalah proses memeriksa naskah untuk menemukan kesalahan ejaan, tanda baca, pengetikan, dan ketidakkonsistenan sebelum diterbitkan.
+
+Contoh: Memeriksa kembali naskah buku sebelum dikirim kepada penerbit.
+
+18. Editing
+
+Editing adalah proses memperbaiki tulisan dari segi bahasa, struktur, kejelasan, konsistensi, dan penyampaian gagasan.
+
+Contoh: Mengubah paragraf yang sulit dipahami menjadi lebih jelas dan efektif.
+
+19. Self-Publishing
+
+Self-publishing adalah proses menerbitkan buku secara mandiri oleh penulis tanpa sepenuhnya bergantung pada penerbit tradisional.
+
+Contoh: Penulis menyiapkan naskah, sampul, tata letak, dan pemasaran bukunya sendiri.
+
+20. Copyright
+
+Copyright atau hak cipta adalah hak hukum yang melindungi karya kreatif sesuai dengan peraturan yang berlaku.
+
+Contoh: Penulis memiliki hak atas karya tulisnya dan dapat menentukan penggunaan karya tersebut sesuai ketentuan hukum.
+
+C. Istilah dalam Penulisan Jurnal Ilmiah
+
+21. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel ilmiah dari berbagai bidang ilmu.
+
+Contoh: Jurnal yang menerbitkan penelitian tentang pemanfaatan AI dalam pendidikan.
+
+22. Artikel Ilmiah
+
+Artikel ilmiah adalah tulisan yang menyampaikan hasil penelitian, kajian, atau analisis berdasarkan metode dan sumber yang dapat dipertanggungjawabkan.
+
+Contoh: Artikel mengenai pengaruh media sosial terhadap literasi digital mahasiswa.
+
+23. Abstract
+
+Abstrak adalah ringkasan singkat yang menggambarkan tujuan, metode, hasil utama, dan kesimpulan penelitian.
+
+Contoh: Ringkasan penelitian sepanjang sekitar 150–250 kata, mengikuti ketentuan jurnal yang dituju.
+
+24. Keywords
+
+Keywords atau kata kunci adalah istilah utama yang mewakili topik sebuah artikel dan membantu pembaca menemukan tulisan tersebut.
+
+Contoh: Literasi digital, kecerdasan buatan, mahasiswa, dan media sosial.
+
+25. Literature Review
+
+Literature review atau tinjauan pustaka adalah pembahasan kritis terhadap penelitian dan sumber ilmiah yang relevan dengan suatu topik.
+
+Contoh: Membandingkan beberapa penelitian sebelumnya tentang penggunaan AI dalam penulisan akademik.
+
+26. Research Methodology
+
+Metodologi penelitian adalah pendekatan dan prinsip yang digunakan untuk merancang serta melaksanakan penelitian.
+
+Contoh: Penelitian menggunakan pendekatan kualitatif dengan metode wawancara.
+
+27. Citation
+
+Sitasi adalah penyebutan sumber yang digunakan untuk mendukung pernyataan atau gagasan dalam tulisan.
+
+Contoh: Mencantumkan sumber penelitian ketika menjelaskan suatu teori.
+
+28. Reference Management
+
+Reference management adalah pengelolaan sumber referensi agar pencatatan, penyisipan sitasi, dan penyusunan daftar pustaka lebih teratur.
+
+Contoh: Menggunakan Zotero atau Mendeley untuk mengelola referensi penelitian.
+
+29. DOI
+
+DOI atau Digital Object Identifier adalah pengenal permanen yang digunakan untuk mengidentifikasi objek digital, termasuk banyak artikel ilmiah.
+
+Contoh: DOI membantu pembaca menemukan artikel meskipun alamat halaman webnya berubah.
+
+30. Peer Review
+
+Peer review adalah proses penilaian karya ilmiah oleh ahli atau penelaah yang memiliki kompetensi sesuai bidangnya sebelum artikel diterbitkan oleh jurnal yang menerapkan proses tersebut.
+
+Contoh: Artikel penelitian ditelaah oleh pakar untuk menilai kualitas metode dan kontribusi ilmiahnya.
+
+D. Istilah dalam Penggunaan AI untuk Menulis
+
+31. Artificial Intelligence (AI)
+
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan sistem komputer menjalankan tugas yang biasanya membutuhkan kemampuan kognitif manusia, seperti memahami bahasa, mengenali pola, dan menghasilkan konten.
+
+Contoh: Memanfaatkan AI untuk membantu menyusun kerangka buku.
+
+32. Generative AI
+
+Generative AI adalah jenis AI yang dapat menghasilkan konten baru berdasarkan pola yang dipelajarinya.
+
+Contoh: AI menghasilkan draf paragraf, gambar ilustrasi, atau ringkasan berdasarkan instruksi pengguna.
+
+33. Large Language Model (LLM)
+
+Large Language Model adalah model AI yang dilatih menggunakan data bahasa dalam skala besar untuk memproses dan menghasilkan teks.
+
+Contoh: Model bahasa digunakan untuk membantu menyusun ide artikel dan memperbaiki kalimat.
+
+34. Prompt
+
+Prompt adalah instruksi atau masukan yang diberikan kepada sistem AI untuk menghasilkan respons tertentu.
+
+Contoh: "Buatkan kerangka buku tentang pentingnya menjaga kelestarian hutan untuk mahasiswa."
+
+35. Prompt Engineering
+
+Prompt engineering adalah proses merancang dan menyempurnakan instruksi agar sistem AI menghasilkan jawaban yang lebih relevan dengan kebutuhan pengguna.
+
+Contoh: Menambahkan target pembaca, gaya bahasa, panjang tulisan, dan format keluaran ke dalam prompt.
+
+36. AI-Assisted Writing
+
+AI-assisted writing adalah proses penulisan yang memanfaatkan AI sebagai alat bantu untuk mengembangkan ide, menyunting bahasa, atau menyusun draf.
+
+Contoh: Penulis menggunakan AI untuk memeriksa kejelasan paragraf, lalu meninjau dan memperbaikinya sendiri.
+
+37. Hallucination
+
+AI hallucination adalah kondisi ketika sistem AI menghasilkan informasi yang terdengar meyakinkan, tetapi tidak akurat, tidak didukung bukti, atau dibuat-buat.
+
+Contoh: AI memberikan judul artikel dan nama penulis yang ternyata tidak pernah ada.
+
+Karena itu, semua referensi dan fakta yang dihasilkan AI perlu diverifikasi melalui sumber tepercaya.
+
+38. Fact-Checking
+
+Fact-checking adalah proses memeriksa kebenaran suatu informasi menggunakan bukti dan sumber yang dapat dipercaya.
+
+Contoh: Memastikan bahwa data statistik dalam sebuah artikel sesuai dengan laporan asli.
+
+39. AI Detector
+
+AI detector adalah alat yang mencoba memperkirakan apakah suatu teks memiliki karakteristik yang berkaitan dengan keluaran AI.
+
+Contoh: Alat pendeteksi digunakan untuk melakukan pemeriksaan awal terhadap sebuah tulisan.
+
+Hasilnya tidak selalu akurat. AI detector tidak dapat menjadi bukti tunggal bahwa suatu tulisan dibuat oleh AI.
+
+40. Human-AI Collaboration
+
+Human-AI collaboration adalah kerja sama antara manusia dan AI dalam menyelesaikan suatu pekerjaan.
+
+Contoh: Penulis menentukan gagasan dan argumen, AI membantu menyunting bahasa, lalu penulis memeriksa kembali hasil akhirnya.
+
+E. Istilah Etika, Keamanan, dan Publikasi Digital
+
+41. Plagiarisme
+
+Plagiarisme adalah tindakan menggunakan gagasan, tulisan, atau karya orang lain tanpa pengakuan yang semestinya.
+
+Contoh: Menyalin paragraf dari jurnal tanpa mencantumkan sumber.
+
+42. Parafrase
+
+Parafrase adalah penyampaian kembali gagasan dari suatu sumber menggunakan susunan kata sendiri tanpa mengubah makna pokoknya.
+
+Contoh: Menjelaskan kembali teori seorang peneliti dengan bahasa yang lebih sederhana, disertai sitasi yang sesuai.
+
+Parafrase tetap memerlukan pengakuan sumber jika gagasannya berasal dari orang lain.
+
+43. Academic Integrity
+
+Integritas akademik adalah komitmen untuk menjunjung kejujuran, tanggung jawab, dan etika dalam kegiatan akademik.
+
+Contoh: Melaporkan hasil penelitian sesuai data dan tidak memalsukan temuan.
+
+44. Research Ethics
+
+Etika penelitian adalah prinsip yang mengatur pelaksanaan penelitian agar menghormati hak, keselamatan, privasi, dan kepentingan pihak yang terlibat.
+
+Contoh: Meminta persetujuan responden sebelum melakukan wawancara penelitian.
+
+45. Creative Commons
+
+Creative Commons adalah organisasi yang menyediakan beragam lisensi untuk membantu pencipta menetapkan ketentuan penggunaan karya mereka.
+
+Contoh: Penulis mengizinkan orang lain membagikan bukunya dengan syarat mencantumkan atribusi sesuai lisensi.
+
+Setiap lisensi memiliki ketentuan berbeda, sehingga pengguna perlu memeriksa persyaratannya.
+
+46. Plagiarism Checker
+
+Plagiarism checker adalah perangkat yang membandingkan teks dengan sumber tertentu untuk menemukan kemiripan.
+
+Contoh: Memeriksa kemiripan naskah sebelum dikirim ke jurnal.
+
+Kemiripan teks tidak selalu berarti plagiarisme. Hasil pemeriksaan harus ditafsirkan dengan mempertimbangkan konteks dan sumbernya.
+
+47. ORCID
+
+ORCID adalah sistem pengenal digital bagi peneliti yang membantu membedakan identitas mereka dan menghubungkan karya ilmiah dengan penulis yang tepat.
+
+Contoh: Peneliti menggunakan ORCID iD saat mengirimkan artikel ke jurnal.
+
+48. Repository
+
+Repository atau repositori digital adalah tempat penyimpanan dan penyediaan akses terhadap dokumen, data, atau karya digital.
+
+Contoh: Repositori perguruan tinggi menyimpan skripsi, tesis, disertasi, dan publikasi akademik.
+
+49. Search Engine Optimization (SEO)
+
+SEO adalah upaya meningkatkan kemudahan suatu halaman web ditemukan melalui mesin pencari secara organik.
+
+Contoh: Penulis blog menggunakan judul yang jelas, kata kunci yang relevan, dan struktur artikel yang mudah dibaca.
+
+SEO bukan jaminan bahwa artikel akan menempati peringkat teratas mesin pencari.
+
+50. Digital Copyright Infringement
+
+Pelanggaran hak cipta digital adalah penggunaan atau penyebaran karya digital yang melanggar hak dan ketentuan hukum yang berlaku.
+
+Contoh: Mengunggah ulang buku berbayar secara penuh tanpa izin atau dasar hukum yang membenarkannya.
